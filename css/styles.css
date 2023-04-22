@@ -1,4 +1,5 @@
 
+
 @import url(https://fonts.googleapis.com/css?family=Open+Sans:400italic,400);
 
 body {
@@ -58,4 +59,7 @@ li > crossOutButton {
 	float: right;
 	color: #025f70;
 	font-weight: 800;
+}
+.strike {
+  text-decoration: line-through
 }
